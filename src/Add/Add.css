@@ -1,0 +1,31 @@
+form {
+    border: 2px solid black;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+form label {
+    margin-bottom: 15px;
+}
+
+form input[type='text'],
+form input[type='price'],
+form input[type='submit'] {
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 3px solid #120000;
+    border-radius: 8px;
+}
+
+form input[type='submit'] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+form input[type='submit']:hover {
+    background-color: #45a049;
+}

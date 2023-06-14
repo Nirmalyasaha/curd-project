@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "pname": "mobile",
+      "company": "Realme",
+      "price": "16000",
+      "desc": "Realme 3 pro is a very good phone ",
+      "id": 1
+    },
+    {
+      "pname": "laptop",
+      "company": "asus rog",
+      "price": "82000",
+      "desc": "asus rog gaming laptop",
+      "id": 2
+    },
+    {
+      "pname": "tv",
+      "company": "lg",
+      "price": "25000",
+      "desc": "tv tv tv tv",
+      "id": 3
+    },
+    {
+      "pname": "tv",
+      "company": "lg",
+      "price": "25000",
+      "desc": "tv tv tv tv",
+      "id": 4
+    },
+    {
+      "pname": "hwqdHCASDHJ",
+      "company": "DFSGD",
+      "price": "22143",
+      "desc": "bfdfd",
+      "id": 5
+    }
+  ]
+}
